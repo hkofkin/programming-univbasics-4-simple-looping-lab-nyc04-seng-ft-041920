@@ -29,7 +29,7 @@ def return_string_array(array)
   while count < array.length do
     new_array = []
     new_array << array[count].to_s
-    return new_array
     count += 1
   end
+  return new_array
 end 
