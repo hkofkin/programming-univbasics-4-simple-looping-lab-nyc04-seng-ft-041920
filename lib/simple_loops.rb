@@ -1,7 +1,7 @@
 # Write your methods here
 
 def loop_message_five_times(string)
-  puts string * 5
+  puts string
 end
 
 def loop_message_n_times
